@@ -1,0 +1,7 @@
+.btn:hover {
+    background-color: grey
+}
+
+.btn:hover {
+    transition:.5s ease-in-out;
+}
